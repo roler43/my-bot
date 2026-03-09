@@ -1,6 +1,6 @@
-aiogram==3.10.0
-aiocryptopay==1.4
-requests==2.31.0
-fake-useragent==1.5.0
-aiohttp==3.9.5
-asyncio==3.4.3
+aiogram
+aiocryptopay
+requests
+fake-useragent
+aiohttp
+python-dotenv
